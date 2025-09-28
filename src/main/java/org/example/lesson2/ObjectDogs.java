@@ -1,6 +1,6 @@
 package org.example.lesson2;
 
-public class MassivObject {
+public class ObjectDogs {
 
     public static void main(String[] args) {
         Dog dog1 = new Dog();

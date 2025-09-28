@@ -1,6 +1,6 @@
 package org.example.lesson2;
 
-public class Object {
+public class ObjectPerson {
     public static void main(String[] args) {
         Person human = new Person();
         human.name = "Oleg";

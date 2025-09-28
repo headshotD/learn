@@ -1,4 +1,4 @@
-package org.example.lesson2;
+package org.example.lesson2.randomGame;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

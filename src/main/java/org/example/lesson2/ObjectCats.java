@@ -1,6 +1,6 @@
 package org.example.lesson2;
 
-public class Again {
+public class ObjectCats {
     public static void main(String[] args) {
         Cat cat1 = new Cat();
         cat1.name = "Анюта";
